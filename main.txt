@@ -1,0 +1,13 @@
+--Probably could have written this in just bash but limited functionality and easy enough in Applescript
+--Thanks to Fraser, Scott and Derek for the help in deploying this to Jamf
+
+try
+	do shell script "security delete-internet-password -s rdprint03.gsa.ac.uk"
+on error
+	display dialog ("GSAPrint and GSAPrint-Colour credentials not found in Keychain.")
+	return
+end try
+
+display dialog ("GSAPrint and GSAPrint-Colour credentials cleared!
+ 
+When trying to print again, you will be prompted for your password; tick the box to remember your password in the Keychain.")
