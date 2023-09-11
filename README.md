@@ -36,12 +36,12 @@ Then double click GPrntClear:
 
 If successful in clearing the Keychain of the GSAPrint or GSAPrint-Colour credential, you'll be greeted with the following:
 
-![Credential found in Keychain](images/credential_found_in_keychain?raw=true)
+![Credential found in Keychain message](images/credential_found_in_keychain.png?raw=true)
 
 
 If not, then the following message will appear:
 
-![Credential not found in Keychain](images/credential_not_found_in_keychain.png?raw=true)
+![Credential not found in Keychain message](images/credential_not_found_in_keychain.png?raw=true)
 
 
 ## Testing
