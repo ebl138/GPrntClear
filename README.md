@@ -52,58 +52,58 @@ If your printing credential was found in the Keychain (and subsequently cleared)
 
 ## Testing
 
-GPrntClear was tested on the following systems:
+GPrntClear was tested on the following systems:  
 
-Late 2012:
-	- DM000801, iMac, Catalina 10.15.7
+Late 2012:  
+	- DM000801, iMac, Catalina 10.15.7  
 
-Late 2013:
-	- DM003187, Mac Pro, Big Sur 11.7.2
+Late 2013:  
+	- DM003187, Mac Pro, Big Sur 11.7.2  
 
-2014:
-	- DM001294, Mac Mini, Big Sur 11.6.8
+2014:  
+	- DM001294, Mac Mini, Big Sur 11.6.8  
 
-Mid 2014:
-	- LM001083, MacBook Pro, Catalina 10.15.7
-	- DM002038, iMac, Mojave 10.14.3
-	- LM001366, MacBook Pro, Big Sur 11.5.1
+Mid 2014:  
+	- LM001083, MacBook Pro, Catalina 10.15.7  
+	- DM002038, iMac, Mojave 10.14.3  
+	- LM001366, MacBook Pro, Big Sur 11.5.1  
 
-Late 2014:
-	- DM000652, iMac, Big Sur 11.4
+Late 2014:  
+	- DM000652, iMac, Big Sur 11.4  
 
-Early 2015:
-	- LM001061, MacBook Pro, High Sierra 10.13.6
-	- LM001858, MacBook Air, Big Sur 11.6.3
-	- LM001045, MacBook Air, Big Sur 11.6.4
-	- LM001527, MacBook Pro, High Sierra 10.13.6
+Early 2015:  
+	- LM001061, MacBook Pro, High Sierra 10.13.6  
+	- LM001858, MacBook Air, Big Sur 11.6.3  
+	- LM001045, MacBook Air, Big Sur 11.6.4  
+	- LM001527, MacBook Pro, High Sierra 10.13.6  
 
-Mid 2015:
-	- LM000150, MacBook Pro, Big Sur 11.5.1
+Mid 2015:  
+	- LM000150, MacBook Pro, Big Sur 11.5.1  
 
-2017:
-	- DM000451, iMac, Big Sur 11.6.8
-	- LM001463, MacBook Pro, Big Sur 11.7.1
-	- DM000479, iMac, Big Sur 11.6.8
-	- DM000056, iMac, Big Sur 11.6.3
-	- DM000450, iMac, Big Sur 11.6.8
-	- DM000474, iMac, Big Sur 11.6.8
-	- DM000453, iMac, Big Sur 11.6.8
-	- DM003326, iMac, Big Sur 11.7.1
+2017:  
+	- DM000451, iMac, Big Sur 11.6.8  
+	- LM001463, MacBook Pro, Big Sur 11.7.1  
+	- DM000479, iMac, Big Sur 11.6.8  
+	- DM000056, iMac, Big Sur 11.6.3  
+	- DM000450, iMac, Big Sur 11.6.8  
+	- DM000474, iMac, Big Sur 11.6.8  
+	- DM000453, iMac, Big Sur 11.6.8  
+	- DM003326, iMac, Big Sur 11.7.1  
 
-2019:
-	- DM000516, iMac, Big Sur 11.6.8
-	- DM000581, iMac, Big Sur 11.6.8
-	- DM000518, iMac, Big Sur 11.6.8
-	- DM000583, iMac, Big Sur 11.6.8
-	- DM000561, iMac, Big Sur 11.6.8
-	- DM000566, iMac, Big Sur 11.6.8
-	- DM000558, iMac, Big Sur 11.6.8
-	- DM000556, iMac, Big Sur 11.6.8
-	- DM000573, iMac, Big Sur 11.6.8
-	- DM000549, iMac, Big Sur 11.6.8
+2019:  
+	- DM000516, iMac, Big Sur 11.6.8  
+	- DM000581, iMac, Big Sur 11.6.8  
+	- DM000518, iMac, Big Sur 11.6.8  
+	- DM000583, iMac, Big Sur 11.6.8  
+	- DM000561, iMac, Big Sur 11.6.8  
+	- DM000566, iMac, Big Sur 11.6.8  
+	- DM000558, iMac, Big Sur 11.6.8  
+	- DM000556, iMac, Big Sur 11.6.8  
+	- DM000573, iMac, Big Sur 11.6.8  
+	- DM000549, iMac, Big Sur 11.6.8  
 
-2020:
-	- DM004934, Mac Mini, Monterey 12.2.1
+2020:  
+	- DM004934, Mac Mini, Monterey 12.2.1  
 
 It has also since been tested (and works) on several Ventura machines.
 
