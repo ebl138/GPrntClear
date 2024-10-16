@@ -109,3 +109,5 @@ It has also since been tested (and works) on several Ventura machines.
 
 
 ## How to use it
+
+Simply download and run GPrntClear.pkg; if you get the '“GPrntClear.pkg” cannot be opened because it is from an unidentified developer' message, just run the following Terminal command: 'sudo spctl --master-disable'. Once GPrntClear is installed, run 'sudo spctl --master-enable'. You should now have the GPrntClear application in your /Applications/ folder.
